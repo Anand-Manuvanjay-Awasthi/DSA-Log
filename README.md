@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
