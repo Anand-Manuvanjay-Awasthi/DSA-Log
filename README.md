@@ -56,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Simulation
@@ -76,6 +77,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Backtracking
 |  |
