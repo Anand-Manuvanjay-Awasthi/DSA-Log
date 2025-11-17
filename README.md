@@ -7,6 +7,7 @@
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
