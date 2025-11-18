@@ -112,4 +112,12 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
