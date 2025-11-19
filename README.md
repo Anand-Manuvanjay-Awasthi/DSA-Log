@@ -11,6 +11,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2058-concatenation-of-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2058-concatenation-of-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2288-count-operations-to-obtain-zero) |
 ## Greedy
