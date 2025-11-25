@@ -12,6 +12,7 @@
 | [0137-single-number-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0137-single-number-ii) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -114,6 +115,7 @@
 | [0077-combinations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
+| [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 | [0137-single-number-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0461-hamming-distance) |
+| [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1610-xor-operation-in-an-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1610-xor-operation-in-an-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
