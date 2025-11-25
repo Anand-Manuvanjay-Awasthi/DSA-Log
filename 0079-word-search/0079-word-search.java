@@ -18,6 +18,7 @@ class Solution {
         return false;
     }
     private boolean existhelp(char[][] board, String word,int ind,int i ,int j,boolean[][] visited){
+        
         if(ind==word.length()) return true;
         if (i < 0 || i >= board.length || j < 0 || j >= board[0].length) return false;
         if (board[i][j] != word.charAt(ind)) return false;
