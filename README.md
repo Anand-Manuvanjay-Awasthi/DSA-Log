@@ -71,6 +71,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0301-remove-invalid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0301-remove-invalid-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -116,6 +118,7 @@
 | [0051-n-queens](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
 ## Binary Search
