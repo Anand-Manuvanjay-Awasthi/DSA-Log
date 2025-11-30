@@ -151,6 +151,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0206-reverse-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
 |  |
@@ -178,4 +179,8 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
