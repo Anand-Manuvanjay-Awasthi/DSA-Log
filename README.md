@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0137-single-number-ii) |
@@ -119,6 +120,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
