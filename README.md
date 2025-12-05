@@ -24,6 +24,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2792-neighboring-bitwise-xor) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -92,6 +93,7 @@
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3625-count-number-of-trapezoids-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
