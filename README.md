@@ -11,6 +11,7 @@
 | [0047-permutations-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
@@ -156,6 +157,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Recursion
