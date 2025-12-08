@@ -92,6 +92,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1610-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1925-count-square-sum-triples) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -206,4 +207,8 @@
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
