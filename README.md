@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0301-remove-invalid-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0046-permutations) |
@@ -171,6 +173,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
