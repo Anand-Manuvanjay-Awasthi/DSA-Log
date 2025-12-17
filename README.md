@@ -16,6 +16,7 @@
 | [0137-single-number-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
@@ -121,6 +122,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -179,6 +181,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0118-pascals-triangle) |
+| [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Recursion
@@ -210,6 +213,7 @@
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1834-single-threaded-cpu](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1834-single-threaded-cpu) |
