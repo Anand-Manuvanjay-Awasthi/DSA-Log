@@ -19,6 +19,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
@@ -56,6 +57,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
 | [1834-single-threaded-cpu](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1834-single-threaded-cpu) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
@@ -124,6 +126,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -215,6 +218,7 @@
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1834-single-threaded-cpu](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1834-single-threaded-cpu) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
