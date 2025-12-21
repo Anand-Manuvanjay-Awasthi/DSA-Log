@@ -22,6 +22,7 @@
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0944-delete-columns-to-make-sorted) |
@@ -48,6 +49,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [1834-single-threaded-cpu](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1834-single-threaded-cpu) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
@@ -131,6 +134,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -177,6 +181,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Matrix
 |  |
@@ -225,6 +230,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1834-single-threaded-cpu](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1834-single-threaded-cpu) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
