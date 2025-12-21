@@ -17,6 +17,7 @@
 | [0137-single-number-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
+| [0406-queue-reconstruction-by-height](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
@@ -220,6 +221,7 @@
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
+| [0406-queue-reconstruction-by-height](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
@@ -247,4 +249,12 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1925-count-square-sum-triples) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
