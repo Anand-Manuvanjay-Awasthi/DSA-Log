@@ -39,6 +39,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2792-neighboring-bitwise-xor) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -144,6 +145,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-reducing-dishes](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1402-reducing-dishes) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -245,6 +247,7 @@
 | [1402-reducing-dishes](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1402-reducing-dishes) |
 | [1834-single-threaded-cpu](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1834-single-threaded-cpu) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3074-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
