@@ -212,6 +212,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0206-reverse-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
@@ -256,6 +257,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0206-reverse-linked-list) |
 ## Geometry
 |  |
