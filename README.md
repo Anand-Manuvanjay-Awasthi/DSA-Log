@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0216-combination-sum-iii) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0119-pascals-triangle-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0871-minimum-number-of-refueling-stops) |
