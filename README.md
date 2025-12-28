@@ -31,6 +31,7 @@
 | [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-reducing-dishes](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1402-reducing-dishes) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0037-sudoku-solver](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
