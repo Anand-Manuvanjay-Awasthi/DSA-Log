@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0046-permutations) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
