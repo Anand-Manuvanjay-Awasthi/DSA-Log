@@ -168,6 +168,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0301-remove-invalid-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
