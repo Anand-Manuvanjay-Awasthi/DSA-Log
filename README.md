@@ -20,6 +20,7 @@
 | [0137-single-number-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
@@ -59,6 +60,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [0840-magic-squares-in-grid](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -195,6 +198,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
@@ -243,6 +247,7 @@
 | [0137-single-number-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0461-hamming-distance) |
 | [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -255,6 +260,7 @@
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
