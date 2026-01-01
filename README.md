@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0119-pascals-triangle-ii) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
