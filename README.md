@@ -33,6 +33,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -65,6 +66,7 @@
 | [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2402-meeting-rooms-iii) |
