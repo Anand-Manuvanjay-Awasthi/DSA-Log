@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0046-permutations) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
@@ -217,6 +219,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0840-magic-squares-in-grid](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0840-magic-squares-in-grid) |
