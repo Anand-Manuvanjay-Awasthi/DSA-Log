@@ -231,6 +231,7 @@
 | [0022-generate-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -255,6 +256,7 @@
 | [0190-reverse-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
