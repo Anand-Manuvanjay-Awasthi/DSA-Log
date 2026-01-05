@@ -44,6 +44,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1834-single-threaded-cpu](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1834-single-threaded-cpu) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1975-maximum-matrix-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2402-meeting-rooms-iii) |
@@ -166,6 +167,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-reducing-dishes](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1402-reducing-dishes) |
+| [1975-maximum-matrix-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -225,6 +227,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0840-magic-squares-in-grid) |
 | [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1975-maximum-matrix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
