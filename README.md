@@ -19,6 +19,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0137-single-number-ii) |
+| [0179-largest-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
@@ -182,6 +184,7 @@
 | [0022-generate-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0179-largest-number) |
 | [0301-remove-invalid-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0301-remove-invalid-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -272,6 +275,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0047-permutations-ii) |
+| [0179-largest-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0406-queue-reconstruction-by-height) |
