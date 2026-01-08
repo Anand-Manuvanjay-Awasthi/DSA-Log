@@ -297,11 +297,13 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0206-reverse-linked-list) |
 ## Geometry
