@@ -27,7 +27,7 @@ class Solution {
         k = length - k;
 
         while (k-- > 0) {
-            temp = temp.next;
+             temp = temp.next;
         }
 
         head = temp.next;
