@@ -183,6 +183,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0179-largest-number) |
@@ -203,6 +204,7 @@
 | [0051-n-queens](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0301-remove-invalid-parentheses) |
