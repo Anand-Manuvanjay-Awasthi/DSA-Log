@@ -208,6 +208,7 @@
 | [0131-palindrome-partitioning](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0301-remove-invalid-parentheses) |
+| [0401-binary-watch](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
 ## Binary Search
@@ -268,6 +269,7 @@
 | [0191-number-of-1-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0645-set-mismatch) |
