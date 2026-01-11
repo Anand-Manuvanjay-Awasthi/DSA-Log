@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0118-pascals-triangle) |
@@ -150,6 +151,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0059-spiral-matrix-ii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2058-concatenation-of-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -231,6 +233,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0079-word-search) |
 | [0840-magic-squares-in-grid](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0840-magic-squares-in-grid) |
 | [0980-unique-paths-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0980-unique-paths-iii) |
