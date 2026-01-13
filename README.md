@@ -34,6 +34,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0881-boats-to-save-people](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -168,6 +169,7 @@
 | [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0881-boats-to-save-people](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-reducing-dishes](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1402-reducing-dishes) |
@@ -295,6 +297,7 @@
 | [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-reducing-dishes](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1402-reducing-dishes) |
@@ -310,6 +313,7 @@
 | [0061-rotate-list](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0881-boats-to-save-people) |
 ## Linked List
 |  |
 | ------- |
