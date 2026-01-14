@@ -32,6 +32,7 @@
 | [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0840-magic-squares-in-grid) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0881-boats-to-save-people) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1834-single-threaded-cpu](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1834-single-threaded-cpu) |
 | [2402-meeting-rooms-iii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/2402-meeting-rooms-iii) |
@@ -167,6 +169,7 @@
 | [0455-assign-cookies](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0881-boats-to-save-people) |
@@ -297,6 +300,7 @@
 | [0502-ipo](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0645-set-mismatch) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1388-greatest-sum-divisible-by-three) |
