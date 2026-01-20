@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0040-combination-sum-ii) |
@@ -234,6 +235,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0540-single-element-in-a-sorted-array) |
