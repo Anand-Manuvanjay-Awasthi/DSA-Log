@@ -33,6 +33,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0645-set-mismatch) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0840-magic-squares-in-grid) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0860-lemonade-change) |
@@ -236,6 +237,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anand-Manuvanjay-Awasthi/DSA-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
